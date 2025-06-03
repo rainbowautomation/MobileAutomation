@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6805","should tap on Sign In button on login screen","","Tue Jun 03 13:11:12 BST 2025","passed","Tue Jun 03 13:11:19 BST 2025","","App Launch Flow & Login","",""
+"","18279","should login with valid credentials and verify Home button is displayed","","Tue Jun 03 13:11:19 BST 2025","passed","Tue Jun 03 13:11:37 BST 2025","","App Launch Flow & Login","",""
+"","6921","should skip the intro screen if Skip button is present","","Tue Jun 03 13:11:05 BST 2025","passed","Tue Jun 03 13:11:12 BST 2025","","App Launch Flow & Login","",""
