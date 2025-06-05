@@ -18,7 +18,7 @@ class BuyerLoginPage extends Page {
     }
 
     get loginButton() {
-        return $('//android.widget.TextView[@text="Login"]');
+        return $('//android.widget.TextView[@text="login"]');
     }
 
     get homeButton() {
