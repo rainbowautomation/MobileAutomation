@@ -74,3 +74,4 @@ adb devices
 
 allure generate allure-results --clean && allure open
 
+# MobileAutomation
